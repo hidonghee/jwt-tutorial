@@ -62,7 +62,8 @@
         - 예를 들어 사용자 ID, 사용자 이름, 역할 및 권한과 같은 정보
     - [https://jwt.io/](https://jwt.io/)
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/410d96ec-0f37-4c15-8370-5e009f1ad169/Untitled.png)
+        ![스크린샷 2023-03-26 203533](https://user-images.githubusercontent.com/72079877/227774237-23ce45b0-be41-4d2f-9f00-6d697e53e056.png)
+
         
         다음과 같이 jwt 토큰을 디코드하면 헤더, 페이로드, 서명란이 나눠져있다. 이때 Payload의 정보를 claim 정보라고 하는 것 같다.
         
